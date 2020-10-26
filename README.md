@@ -7,3 +7,7 @@ A (perhaps not too interesting) approximations of pi
 ## vector.c
 
 An example of vectorized loop
+
+## hello.rs
+
+Hello world in rust!
